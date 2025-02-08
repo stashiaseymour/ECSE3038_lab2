@@ -1,4 +1,4 @@
-# Scooby-Doo Character Data API
+
 
 ## Overview
 This API allows you to manage a list of characters. It includes the ability to add new characters via a POST request and retrieve the full list of characters with a GET request. Each character has their name, occupation, and address stored in a list.
